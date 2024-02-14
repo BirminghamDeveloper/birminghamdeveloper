@@ -15,7 +15,7 @@ With over half a decade of hands-on experience in the Android development ecosys
 - **Languages:** Java, Kotlin
 - **Architecture:** MVVM, MVI
 - **Android SDK:** UI Design, Jetpack Components, Material Design
-- **Databases:** SQLite, Room
+- **Databases:** MongoDB, RealmDB, SQLite, Room
 - **Networking:** Retrofit, OkHttp
 - **Asynchronous Programming:** Coroutines, RxJava
 - **Dependency Injection:** Dagger 2, Hilt
