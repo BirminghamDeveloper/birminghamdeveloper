@@ -18,7 +18,7 @@ With over half a decade of hands-on experience in the Android development ecosys
 
 ## 🛠 My Tech Stack
 
-- **Languages:** Java, Kotlin
+- **Languages:** C++, Java, Kotlin
 - **Architecture:** MVVM, MVI
 - **Android SDK:** UI Design, Jetpack Components, Material Design
 - **Databases:** MySQL, RealmDB, SQLite, Room
@@ -28,6 +28,7 @@ With over half a decade of hands-on experience in the Android development ecosys
 - **Version Control:** Git, GitHub
 - **CI/CD:** Jenkins, GitHub Actions
 - **Testing:** JUnit, Espresso, Mockito
+
 - <br/>  
 
 ## My Skill Set  
