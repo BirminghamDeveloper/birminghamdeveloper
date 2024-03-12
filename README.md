@@ -28,7 +28,6 @@ With over half a decade of hands-on experience in the Android development ecosys
 - **Version Control:** Git, GitHub
 - **CI/CD:** Jenkins, GitHub Actions
 - **Testing:** JUnit, Espresso, Mockito
-
 - <br/>  
 
 ## My Skill Set  
