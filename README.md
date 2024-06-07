@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Mustafa Sharif] and Android Developer
+# 👋 Hey there! I'm [Mustafa Sharif] Android Developer
 
 With over half a decade of hands-on experience in the Android development ecosystem, I've journeyed through the evolution of mobile app development, mastering the art of crafting robust, user-friendly applications with Java and Kotlin. As a Senior Android Developer, I've led teams to build applications that not only meet but exceed user expectations, focusing on performance, scalability, and clean code.
 
