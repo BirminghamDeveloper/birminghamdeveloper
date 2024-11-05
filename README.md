@@ -66,6 +66,7 @@ With over half a decade of hands-on experience in the Android development ecosys
 
 <br/>  
 ###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/birminghamdeveloper/birminghamdeveloper/output/snake.svg" alt="Snake animation" />
