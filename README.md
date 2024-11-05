@@ -65,7 +65,13 @@ With over half a decade of hands-on experience in the Android development ecosys
 </td></tr></table>  
 
 <br/>  
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/birminghamdeveloper/birminghamdeveloper/output/snake.svg" alt="Snake animation" />
+
+###
 ## 📫 How to Reach Me
 
 Feel free to connect with me on [LinkedIn](https://https://www.linkedin.com/in/mustafa7sharif), or drop me an email at [Email](mailto:m.sharif.uk@gmail.com).
