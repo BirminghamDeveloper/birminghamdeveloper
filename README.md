@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm [Mustafa Sharif] Android Developer
 
-Senior Android Developer with 5+ years of experience in crafting high-quality, user-centric applications using Java and Kotlin. Skilled in building performant, scalable, and cleanly architected apps, I’ve led teams to deliver solutions that consistently exceed user expectations and stay aligned with the latest advancements in the Android ecosystem..
+Senior Android Developer with 5+ years of experience in crafting high-quality, user-centric applications using Java and Kotlin. Skilled in building performant, scalable, and cleanly architected apps, I’ve led teams to deliver solutions that consistently exceed user expectations and stay aligned with the latest advancements Jet-Pack Compose in the Android ecosystem..
 
 ## 🌟 About Me
 
