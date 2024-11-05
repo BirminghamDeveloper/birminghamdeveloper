@@ -22,8 +22,8 @@ With over half a decade of hands-on experience in the Android development ecosys
 - **Architecture:** MVVM, MVI
 - **Android SDK:** UI Design, Jetpack Components, Material Design
 - **Databases:** MySQL, RealmDB, SQLite, Room
-- **Networking:** Retrofit, OkHttp
-- **Asynchronous Programming:** Coroutines, RxJava
+- **Networking:** Retrofit, OkHttp, Koin
+- **Asynchronous Programming:** Asyncorounos, Coroutines, RxJava
 - **Dependency Injection:** Dagger 2, Hilt
 - **Version Control:** Git, GitHub
 - **CI/CD:** Jenkins, GitHub Actions
