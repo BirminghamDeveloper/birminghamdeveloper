@@ -65,7 +65,7 @@ With over half a decade of hands-on experience in the Android development ecosys
 </td></tr></table>  
 
 <br/>  
-###
+
 
 <br clear="both">
 
