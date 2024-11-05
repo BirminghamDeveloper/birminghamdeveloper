@@ -4,13 +4,12 @@ Senior Android Developer with 5+ years of experience in crafting high-quality, u
 
 ## 🌟 About Me
 
-- 🚀 I specialize in Android development with a deep understanding of both Java and Kotlin, striving to leverage the latest technologies and methodologies to push the boundaries of what mobile apps can achieve.
-- 🛠️ My toolkit includes MVVM, LiveData, Room, Retrofit, Dagger/Hilt, and Kotlin Coroutines among others, enabling me to build responsive, maintainable, and efficient applications.
-- 📈 I'm passionate about continuous learning and improvement, actively keeping myself updated with the latest trends in Android development to ensure my skills remain on the cutting edge.
-- 🤝 As a team leader, I've nurtured environments that encourage innovation, collaboration, and growth, helping my teams to deliver exceptional products on time.
-- 🌱 In my spare time, I contribute to open-source projects and write technical blogs to share my knowledge and learn from the community.
-
-- ###
+- 🚀 Passionate Android Developer with expertise in Java and Kotlin, dedicated to pushing the boundaries of mobile app capabilities through innovative technologies and modern methodologies.
+- 🛠️ Skilled in building responsive, maintainable, and high-performing applications, using tools like MVVM, LiveData, Room, Retrofit, Dagger/Hilt, and Kotlin Coroutines.
+- 📈 Committed to continuous growth, I stay on top of the latest trends in Android development to keep my skills sharp and impactful.
+- 🤝 Proven team leader focused on fostering collaborative, growth-oriented environments that drive quality and innovation.
+- 🌱 Outside of work, I contribute to open-source projects and write technical blogs, sharing insights and learning from the community.
+  ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BirminghamDeveloper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BirminghamDeveloper&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -28,7 +27,6 @@ Senior Android Developer with 5+ years of experience in crafting high-quality, u
 - **Version Control:** Git, GitHub
 - **CI/CD:** Jenkins, GitHub Actions
 - **Testing:** JUnit, Espresso, Mockito
-
  <br/>  
 
 ## My Skill Set  
