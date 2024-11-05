@@ -5,7 +5,7 @@ Senior Android Developer with 5+ years of experience in crafting high-quality, u
 ## 🌟 About Me
 
 - 🚀 Passionate Android Developer with expertise in Java and Kotlin, dedicated to pushing the boundaries of mobile app capabilities through innovative technologies and modern methodologies.
-- 🛠️ Skilled in building responsive, maintainable, and high-performing applications, using tools like MVVM, LiveData, Room, Retrofit, Dagger/Hilt, and Kotlin Coroutines.
+- 🛠️ Skilled in building responsive, maintainable, and high-performing applications, using tools like MVVM, LiveData, Room, Retrofit, Dagger/Hilt, Kotlin Coroutines and Jet-Pack Compose.
 - 📈 Committed to continuous growth, I stay on top of the latest trends in Android development to keep my skills sharp and impactful.
 - 🤝 Proven team leader focused on fostering collaborative, growth-oriented environments that drive quality and innovation.
 - 🌱 Outside of work, I contribute to open-source projects and write technical blogs, sharing insights and learning from the community.
