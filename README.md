@@ -42,7 +42,7 @@ Senior Android Developer with **7+ years** of experience crafting **high-quality
 - Room, SQLite, RealmDB, MySQL
 
 ### **Networking**
-- Retrofit, OkHttp, **Ktor**, **Koin**
+- Retrofit, OkHttp, **Ktor**
 
 ### **Asynchronous Programming**
 - Coroutines, RxJava, Async Tasks
