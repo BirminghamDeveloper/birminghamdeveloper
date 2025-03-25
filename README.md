@@ -1,7 +1,7 @@
 # 🚀 Hey there! I'm **Mustafa Sharif** | Android Developer Extraordinaire
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1LmZ7n4Q4p8w9y5AjD/giphy.gif" alt="Professional Cat Typing" width="200" />
+  <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" alt="Funky GIF" width="200" />
 </p>
 
 Senior Android Developer with **7+ years** of experience crafting **high-quality, user-centric applications** using **Java** and **Kotlin**. I specialize in building **performant, scalable, and cleanly architected apps**, leveraging cutting-edge technologies like **Jetpack Compose** and modern methodologies to deliver exceptional user experiences.
