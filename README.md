@@ -129,7 +129,7 @@ Senior Android Developer with **7+ years** of experience crafting **high-quality
 Feel free to connect with me:
 
 - **LinkedIn:** [Mustafa Sharif](https://www.linkedin.com/in/mustafa7sharif)
-- **Email:** [m.sharif.uk@gmail.com](mailto:m.sharif.uk@gmail.com)
+- **Email:** (mailto:m.sharif.uk@gmail.com)
 
 I’m always excited about new challenges and opportunities to collaborate with fellow developers and innovators. Let’s build something **amazing** together! 🚀
 
