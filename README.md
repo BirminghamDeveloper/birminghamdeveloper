@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" alt="Funky GIF" width="40%"" />
 </p>
 
-**Senior Android Developer with 7+ years of experience crafting high-quality, innovative solutions that drive business growth and user engagement**, using **Java** and **Kotlin**. I specialize in building **performant, scalable, and cleanly architected apps**, leveraging cutting-edge technologies like **Jetpack Compose** and modern methodologies to deliver exceptional user experiences with **high positive feedback client in Birmingham, UK**.
+**Senior Android Developer with 8+ years of experience crafting high-quality, innovative solutions that drive business growth and user engagement**, using **Java** and **Kotlin**. I specialize in building **performant, scalable, and cleanly architected apps**, leveraging cutting-edge technologies like **Jetpack Compose** and modern methodologies to deliver exceptional user experiences with **high positive feedback client in Birmingham, UK**.
 
 ---
 
